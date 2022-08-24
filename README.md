@@ -11,7 +11,7 @@ Test on devnet first. Use this method only if you know exactly what you are doin
 4- Run "metaboss decode" using the output of the "metaboss snapshot mints" command  
 5- Move the "metaboss decode" output inside a folder called mints_data, move mints_data in the same folder as format_script.py  
 6- Move the new cache file generated using the "sugar upload" command in the same folder as format_script.py  
-7- Create an "output" folder in the same folder as format_script.py
+7- Create an "output" folder in the same folder as format_script.py  
 8- Run the script from the main folder using "py format_script.py", you'll find the formatted data in the "output" folder  
 9- Run "metaboss update data-all" using as --data-dir the path to the output folder  
   
