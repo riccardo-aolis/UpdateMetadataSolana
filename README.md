@@ -1,5 +1,5 @@
 # UpdateMetadataSolana
-Tutorial on how to update the metadata of an NFT collection on Solana. It includes the script to format the data for the "metaboss update data-all" command. Following the steps you will update the metadata of every nft in your collection, while keeping the same name property for each mint id.  
+Tutorial on how to update the metadata of an NFT collection on Solana. It includes the script to format the data for the "metaboss update data-all" command. Following the steps you will update the image and the metadata of every nft in your collection, while keeping the same name property for each mint id.  
   
 **IMPORTANT**  
 Test on devnet first. Use this method only if you know exactly what you are doing. 
