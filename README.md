@@ -14,5 +14,3 @@ Test on devnet first. Use this method only if you know exactly what you are doin
 7- Create an "output" folder in the same folder as format_script.py  
 8- Run the script from the main folder using "py format_script.py", you'll find the formatted data in the "output" folder  
 9- Run "metaboss update data-all" using as --data-dir the path to the output folder  
-  
-**Contacts:** @riccardoaolis on Twitter
