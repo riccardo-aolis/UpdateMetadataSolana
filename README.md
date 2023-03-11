@@ -3,6 +3,7 @@ Tutorial on how to update the metadata of an NFT collection on Solana. It includ
   
 **IMPORTANT**  
 Test on devnet first. Use this method only if you know exactly what you are doing. 
+(Guide updated as of August 2022)
 
 **Steps:**  
 1- Generate the new images/metadata  
